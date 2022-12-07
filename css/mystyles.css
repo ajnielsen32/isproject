@@ -1,0 +1,34 @@
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myimg{
+    width: 33% !important;
+}
+.myitalics{
+    font-style: italic;
+}
+.scratchbg{
+    background-image: url('../assets/img/background.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.centered {
+    text-align: center;
+}
+.italics {
+    font-style: italic;
+}
+.headerstyle {
+    color: black;
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
+    
